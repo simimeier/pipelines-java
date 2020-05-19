@@ -1,4 +1,5 @@
-https://docs.microsoft.com/en-us/azure/devops/pipelines/media/azure-pipelines-succeeded.png?view=azure-devops
+[![Build Status](https://dev.azure.com/simonmeier01/ITEO_ex/_apis/build/status/simimeier.pipelines-java?branchName=master)](https://dev.azure.com/simonmeier01/ITEO_ex/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
