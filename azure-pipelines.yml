@@ -14,6 +14,9 @@ strategy:
     jdk11_windows:
       imageName: "vs2017-win2016"
       jdk_version: "1.11"
+    jdk11_mac:
+      imageName: "macos-10.14"
+      jdk_version : "1.11"
   maxParallel: 2
 
 pool:
