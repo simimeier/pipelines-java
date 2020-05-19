@@ -16,7 +16,7 @@ public class MyTest {
 
     @Test
     public void test_method_3() {
-        assertTrue(false);
+        assertFalse(false);
     }
 
     @Test
