@@ -9,4 +9,13 @@ public class Demo {
 
         System.out.println("I am not covered");
     }
+
+    public void doSomethingElse(String test) {
+        if(test.equals("Hello")) {
+            System.out.println("Hello");
+            return;
+        }
+
+        System.out.println("Ciao");
+    }
 }
