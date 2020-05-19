@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/simonmeier01/ITEO_ex/_apis/build/status/simimeier.pipelines-java?branchName=master)](https://dev.azure.com/simonmeier01/ITEO_ex/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
